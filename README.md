@@ -73,11 +73,18 @@ These KPIs provide actionable insights into Zomato's operations, helping the tea
 Contributions are welcome! To contribute:
 
 Fork the repository.
+
 Create a new branch (git checkout -b feature-branch).
+
 Commit your changes (git commit -m 'Add new feature').
+
 Push to the branch (git push origin feature-branch).
+
 Open a pull request.
+
 Please ensure your code adheres to the project’s coding standards and includes necessary documentation.
+
+
 
 
 
