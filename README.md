@@ -67,9 +67,11 @@ These KPIs provide actionable insights into Zomato's operations, helping the tea
 1. Clone the repository:
    ```bash
    git clone https://github.com/vivek7488/zomato-operations.git
-   cd zomato-operationas
+   cd zomato-operations
 
-🤝 Contributing
+
+# 🤝 Contributing
+
 Contributions are welcome! To contribute:
 
 Fork the repository.
