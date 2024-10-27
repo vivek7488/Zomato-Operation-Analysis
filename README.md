@@ -66,8 +66,8 @@ These KPIs provide actionable insights into Zomato's operations, helping the tea
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/zomato-operational-efficiency-analysis.git
-   cd zomato-operational-efficiency-analysis
+   git clone https://github.com/vivek7488/zomato-operations.git
+   cd zomato-operationas
 
 🤝 Contributing
 Contributions are welcome! To contribute:
