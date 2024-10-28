@@ -1,2 +1,4 @@
 1.Python
 2.jupyter notebook
+3.Numpy
+4.Pandas
